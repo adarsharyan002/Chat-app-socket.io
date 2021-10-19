@@ -8,7 +8,7 @@ import io from 'socket.io-client';
 
 import './Chat.css';
 import Messages from '../Messages/Messages';
-const ENDPOINT='https://reactchatapp2022.herokuapp.com/';
+const ENDPOINT='https://simplechat2022.herokuapp.com/';
 
 
 let socket;
